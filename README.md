@@ -1,5 +1,5 @@
 # essay
 
-<img title="" src="image/girl.png" alt="girl" width="520" data-align="inline">
+![girl](image/girl.png)
 
 - [RL](first.md)
